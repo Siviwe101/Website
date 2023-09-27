@@ -1,33 +1,21 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Your Website Title</title>
-</head>
-<body>
-    <header>
-        <h1>Welcome to My Website</h1>
-    </header>
-    <main>
-        <p>import Website<p/>
+# Website
+## Use as Extension
 
-<p># returns 'Webpage'<p/>
+This repository can be added as an **extension** in MakeCode.
+
+* open [https://makecode.microbit.org/](https://makecode.microbit.org/)
+* click on **New Project**
+* click on **Extensions** under the gearwheel menu
+* search for **https://github.com/rece212/testwebsite** and import
+
+## Edit this project
+![VCNMB SoIT](https://github.com/rece212/TestWebsite/assets/1363833/d8a685f8-f64a-411f-b07d-bbbb37f6809b)
 
 
-<p>## Edit this project<p/>
+To edit this repository in MakeCode.
 
-Pull requests are welcome. For major changes, please open an issue first
-to discuss what you would like to change.
+* open [https://makecode.microbit.org/](https://makecode.microbit.org/)
+* click on **Import** then click on **Import URL**
+* paste **https://github.com/rece212/testwebsite** and click import
 
-Please make sure to update tests as appropriate.
-
-## License
-
-[MIT](https://choosealicense.com/licenses/mit/)</p>
-    </main>
-    <footer>
-        <p>&copy; 2023 Siviwe Madlwabinga</p>
-    </footer>
-</body>
-</html>
+#### Metadata (used for search, rendering)
