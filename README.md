@@ -26,6 +26,7 @@ foobar.pluralize('goose')
 # returns 'phenomenon'
 foobar.singularize('phenomena')
 ```
+![images](https://github.com/Siviwe101/Website/assets/101550419/6380c024-55f0-4670-b9ae-7b839631e208)
 
 ## Contributing
 
